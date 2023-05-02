@@ -33,6 +33,7 @@ I'm **Giannis Trantalidis**, Mathematician with interest in Data science
 <br>
 <br>
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnTrs)
 
 
