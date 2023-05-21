@@ -1,6 +1,6 @@
  
 🔭
-**Giannis Trantalidis - @johnTrs**, 📐 Mathematician with interest in Data science
+**Giannis Trantalidis - @johnTrs** 📐 Mathematician with interest in Data science
 
 ### Topics:
 - **Data Science (ML)**  📊
