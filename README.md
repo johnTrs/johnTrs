@@ -1,11 +1,11 @@
-### Hi there 🔭
-
-I'm **Giannis Trantalidis**, Mathematician with interest in Data science
+ 
+🔭
+**Giannis Trantalidis - @johnTrs**, 📐 Mathematician with interest in Data science
 
 ### Topics:
-- **Data Science (ML)**  💬
-- **Mathematics**        💬
-- **Statistics**         💬
+- **Data Science (ML)**  📊
+- **Mathematics**        📐
+- **Machine Learning**   🧠
 <br>
 
 ## [**CV**](https://github.com/TatevKaren/TatevKaren/files/11361961/new_resume.1.pdf)
@@ -18,7 +18,7 @@ I'm **Giannis Trantalidis**, Mathematician with interest in Data science
  
 <img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> 
 
-[LinkedIn](https://www.linkedin.com/in/%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CF%84%CF%81%CE%B1%CE%BD%CF%84%CE%B1%CE%BB%CE%AF%CE%B4%CE%B7%CF%82-050582210/)
+[LinkedIn]([https://www.linkedin.com/in/%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CF%84%CF%81%CE%B1%CE%BD%CF%84%CE%B1%CE%BB%CE%AF%CE%B4%CE%B7%CF%82-050582210/](https://www.linkedin.com/in/gtrantalidis/))
 
 <br>
 <br>
