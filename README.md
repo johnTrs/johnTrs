@@ -8,7 +8,7 @@
 - **Data Science (ML)**  📊
 - **Mathematics**        📐
 - **Machine Learning**   🧠
-- **Bioinformatics       🧬
+- **Bioinformatics**      🧬
 <br>
 
 ## [**CV**](https://github.com/johnTrs/johnTrs/files/11524720/resume.pdf)
