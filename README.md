@@ -11,7 +11,7 @@
 - **Bioinformatics       🧬
 <br>
 
-## [**CV**]([resume.pdf](https://github.com/johnTrs/johnTrs/files/11524720/resume.pdf)
+## [**CV**][resume.pdf](https://github.com/johnTrs/johnTrs/files/11524720/resume.pdf)
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
