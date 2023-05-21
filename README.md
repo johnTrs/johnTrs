@@ -8,10 +8,10 @@
 - **Data Science (ML)**  📊
 - **Mathematics**        📐
 - **Machine Learning**   🧠
+- **Bioinformatics       🧬
 <br>
 
-## [**CV**](https://github.com/TatevKaren/TatevKaren/files/11361961/new_resume.1.pdf)
-
+## [**CV**]([resume.pdf](https://github.com/johnTrs/johnTrs/files/11524720/resume.pdf)
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
