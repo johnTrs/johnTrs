@@ -20,7 +20,7 @@
  
 <img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> 
 
-[LinkedIn]([https://www.linkedin.com/in/%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CF%84%CF%81%CE%B1%CE%BD%CF%84%CE%B1%CE%BB%CE%AF%CE%B4%CE%B7%CF%82-050582210/](https://www.linkedin.com/in/gtrantalidis/)
+[LinkedIn](https://www.linkedin.com/in/gtrantalidis/)
 
 <br>
 <br>
