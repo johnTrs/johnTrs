@@ -5,7 +5,7 @@
 📐 Mathematician with interest in Data science
 
 ### Topics:
-- **Data Science (ML)**  📊
+- **Data Science**  📊
 - **Mathematics**        📐
 - **Machine Learning**   🧠
 - **Bioinformatics**      🧬
